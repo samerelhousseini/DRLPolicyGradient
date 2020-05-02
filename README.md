@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning: Policy Gradient with Monte Carlo and Baseline for Cartpole
 
-The objective of this Python program is to teach the cart to balance the pole upgright, through deep reinforcement learning. The unlearned behavior is shown below (~10 episodes):
+The objective of this Python program is to teach the cart to balance the pole upgright, through deep reinforcement learning. The unlearned behavior is shown below (~10 episodes) where the cart fails, and the episode is restarted because it does not reach the max number of steps (200 steps):
 
 
 ![png](Cartpole-Unlearned.gif)
